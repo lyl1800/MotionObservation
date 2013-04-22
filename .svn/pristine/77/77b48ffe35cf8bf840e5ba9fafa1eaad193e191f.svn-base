@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "cc">
+        <item >10级3班</item>
+        <item >10级1班</item>
+        <item >11级3班</item>
+        <item >11级2班</item>
+    </string-array>
+</resources>
